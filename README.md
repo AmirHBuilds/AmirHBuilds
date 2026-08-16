@@ -85,6 +85,6 @@ I build software that has to survive real conditions — bad networks, censorshi
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=AmirHBuilds&show_icons=true&include_all_commits=true&theme=github_dark" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&theme=github_dark" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=AmirHBuilds&layout=compact&langs_count=6&theme=github_dark" height="165"/>
 
 </div>
