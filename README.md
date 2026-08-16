@@ -27,48 +27,42 @@ I build software that has to survive real conditions — bad networks, censorshi
 <tr>
 <td width="50%">
 
-**[Mirrorino](https://github.com/AmirHBuilds/mirrorino)**
-Self-hosted GitHub mirror for unreliable internet.
-FastAPI · Vue · PostgreSQL · Docker · Nginx
+**[Mirrorino](https://github.com/AmirHBuilds/mirrorino)** — Self-hosted GitHub mirror for unreliable internet.
+`FastAPI` `Vue` `PostgreSQL` `Docker` `Nginx`
 
 </td>
 <td width="50%">
 
-**[FreeByte](https://github.com/AmirHBuilds/freebyte)**
-A production platform, not a demo — backend, Telegram automation, auth, payments, deployment.
-FastAPI · Telegram
+**[FreeByte](https://github.com/AmirHBuilds/freebyte)** — A production platform, not a demo: backend, Telegram automation, auth, payments, deployment.
+`FastAPI` `Telegram`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[NoonYar](https://github.com/AmirHBuilds/noonyar-server-side)**
-Bakery automation connecting software to physical hardware in real time.
-FastAPI · PostgreSQL · Redis · Celery · MQTT
+**[NoonYar](https://github.com/AmirHBuilds/noonyar-server-side)** — Bakery automation connecting software to physical hardware in real time.
+`FastAPI` `PostgreSQL` `Redis` `Celery` `MQTT`
 
 </td>
 <td width="50%">
 
-**[CandyReminder](https://github.com/AmirHBuilds/candy-reminder)**
-Telegram bot for couples — pairing, reminders, streaks, AI-generated messages.
-Python · Docker
+**[data-guardian](https://github.com/AmirHBuilds/data-guardian)** — Telegram bot that monitors IPs/domains from multiple countries and alerts you when something stops responding.
+`Python` `PostgreSQL` `Telegram`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[ssh-to-vps](https://github.com/AmirHBuilds/ssh-to-vps)**
-A full SSH terminal, inside Telegram.
-Python · Networking
+**[course-guardian](https://github.com/AmirHBuilds/course-guardian)** — Telegram bot for selling courses: media delivery, private channel access, join-request approval, built-in wallet.
+`Python` `PostgreSQL` `Telegram`
 
 </td>
 <td width="50%">
 
-**[slipstream-tunnel](https://github.com/AmirHBuilds/slipstream-tunnel)**
-Network tunneling experiments.
-Networking · Linux
+**[ssh-to-vps](https://github.com/AmirHBuilds/ssh-to-vps)** — A full SSH terminal, inside Telegram. My original idea, and as far as I know the first bot of its kind.
+`Python` `Networking`
 
 </td>
 </tr>
@@ -90,7 +84,7 @@ Networking · Linux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirHBuilds&show_icons=true&hide_border=true&theme=default&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHBuilds&layout=compact&hide_border=true&theme=default" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=AmirHBuilds&show_icons=true&include_all_commits=true&theme=github_dark" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&theme=github_dark" height="165"/>
 
 </div>
